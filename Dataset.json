@@ -1,0 +1,898 @@
+{
+  "data": [
+    {
+      "symptoms": "fever, cough, runny nose",
+      "disease": "viral fever",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, fatigue, body aches, loss of appetite, chills, headache, runny or stuffy nose, chest discomfort, weakness",
+      "disease": "influenza",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, headache, stiff neck, confusion, nausea, vomiting, sensitivity to light, seizures",
+      "disease": "meningitis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, sore throat, swollen glands, fatigue, headache, muscle aches",
+      "disease": "mononucleosis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, shortness of breath, fatigue, chest pain, nausea, vomiting, diarrhea, confusion",
+      "disease": "pneumonia",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, rash, joint pain, muscle pain, headache, fatigue",
+      "disease": "chikungunya",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, muscle aches, vomiting, headache, joint pain, rash",
+      "disease": "dengue",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, abdominal pain, diarrhea, nausea, vomiting, dehydration, pain in stomach",
+      "disease": "food poisoning",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, headache, muscle aches, vomiting, diarrhea, sore throat, cough, chest pain",
+      "disease": "Lassa fever",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, abdominal pain, jaundice, nausea, vomiting, fatigue, dark urine, pale stools",
+      "disease": "hepatitis A",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, sore throat, body aches, headache, loss of taste or smell, shortness of breath, fatigue, low breathing",
+      "disease": "COVID-19",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abdominal pain, diarrhea, fatigue, weight loss, blood in stool",
+      "disease": "Crohn's disease",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, headache, chills, muscle aches, nausea, vomiting, diarrhea, abdominal pain",
+      "disease": "Norovirus",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, chills, fatigue, joint pain, rash, conjunctivitis",
+      "disease": "Zika virus",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abnormal vaginal bleeding, pelvic pain, pain during sex, painful urination, abnormal vaginal discharge",
+      "disease": "endometriosis",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "pelvic pain, painful urination, blood in semen, erectile dysfunction",
+      "disease": "prostatitis",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "breast lump or thickening, nipple discharge, breast pain or discomfort",
+      "disease": "breast cancer",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "testicular lump or swelling, pain or discomfort in the testicle or scrotum",
+      "disease": "testicular cancer",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abnormal vaginal bleeding, pain during sex, pelvic pain or pressure, frequent urination, constipation",
+      "disease": "ovarian cancer",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "painful or frequent urination, blood in urine, pain in lower back or pelvis",
+      "disease": "prostate cancer",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abdominal pain, constipation, diarrhea, rectal bleeding, weight loss",
+      "disease": "ulcerative colitis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "chest pain, shortness of breath, irregular heartbeat, dizziness, fainting",
+      "disease": "arrhythmia",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "pain in the abdomen, bloating, nausea, vomiting, constipation or diarrhea",
+      "disease": "irritable bowel syndrome",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "pain in the bones, weakness, fatigue, weight loss, repeated infections",
+      "disease": "multiple myeloma",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "dizziness, vertigo, nausea, vomiting, hearing loss, tinnitus",
+      "disease": "Meniere's disease",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "severe abdominal pain, bloating, vomiting, constipation, fever",
+      "disease": "diverticulitis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, headache, muscle aches, vomiting, diarrhea, abdominal pain, dark urine, yellowing of the skin or eyes",
+      "disease": "hepatitis B",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "severe headache, nausea, vomiting, sensitivity to light and sound, neck stiffness",
+      "disease": "migraine",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, chills, cough, chest pain, difficulty breathing",
+      "disease": "tuberculosis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, sore throat, fatigue, body aches, loss of taste or smell, headache, congestion, runny nose, nausea, diarrhea",
+      "disease": "COVID-19 Delta Variant",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, body aches, headache, runny nose, sore throat, fatigue",
+      "disease": "common cold",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "swelling or inflammation in one or more joints, stiffness, tenderness, warmth or redness in joints, fever, weight loss",
+      "disease": "rheumatoid arthritis",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "abdominal pain, diarrhea, bloating, constipation, gas",
+      "disease": "irritable bowel syndrome (IBS)",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "shortness of breath, chest pain, heart palpitations, fatigue, dizziness, fainting, swelling in legs or ankles",
+      "disease": "heart failure",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "pain, numbness, tingling, weakness, muscle cramps",
+      "disease": "peripheral neuropathy",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "fever, fatigue, weakness, muscle aches, headache, loss of appetite, dry cough",
+      "disease": "Middle East respiratory syndrome coronavirus (MERS-CoV)",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, sore throat, body aches, headache, difficulty breathing",
+      "disease": "influenza A(H1N1)",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, fatigue, nausea, loss of appetite, abdominal pain, joint pain, dark urine, jaundice",
+      "disease": "hepatitis E",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, chest pain, shortness of breath, difficulty breathing",
+      "disease": "acute respiratory distress syndrome",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "chest pain, coughing up blood, shortness of breath, fatigue, unexplained weight loss",
+      "disease": "lung cancer",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "blurred vision, gradual vision loss, floaters, eye pain, hazy vision",
+      "disease": "cataracts",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abdominal cramping, diarrhea, nausea, vomiting, dehydration, weight loss",
+      "disease": "giardiasis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "flu-like symptoms, fatigue, weight loss, night sweats, recurrent infections",
+      "disease": "AIDS",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "whiteheads, blackheads, pimples, oily skin, scarring",
+      "disease": "acne",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "jaundice, fatigue, abdominal pain, nausea, vomiting",
+      "disease": "alcoholic hepatitis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "joint pain, stiffness, swelling, redness, limited range of motion",
+      "disease": "arthritis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "cough, wheezing, shortness of breath, chest tightness, mucus production",
+      "disease": "bronchial asthma",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "itchy rash, fluid-filled blisters, fatigue, fever, headache",
+      "disease": "chickenpox",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "excessive thirst, hunger, frequent urination, weight loss, fatigue",
+      "disease": "diabetes",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, cough, chest pain, difficulty breathing, weight loss",
+      "disease": "pulmonary histoplasmosis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "rash, hives, itching, fever, swelling",
+      "disease": "drug allergy",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "itching, redness, scaling, cracking, discharge",
+      "disease": "fungal infection",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "heartburn, acid reflux, regurgitation, nausea, chest pain",
+      "disease": "GERD",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "nausea, vomiting, diarrhea, abdominal pain, fever",
+      "disease": "gastroenteritis",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "chest pain, shortness of breath, fatigue, dizziness, nausea",
+      "disease": "heart disease",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "abnormal vaginal bleeding, pelvic pain, pain during sex, painful urination, abnormal vaginal discharge",
+      "disease": "endometriosis",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "high blood pressure, headache, dizziness, shortness of breath, chest pain, irregular heartbeat",
+      "disease": "hypertension",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "sudden weight loss, rapid heartbeat, increased appetite, nervousness, irritability, sweating",
+      "disease": "hyperthyroidism",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "shakiness, sweating, blurred vision, dizziness, confusion, weakness",
+      "disease": "hypoglycaemia",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fatigue, weight gain, constipation, depression, dry skin, sensitivity to cold",
+      "disease": "hypothyroidism",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "red sores on the face, neck, hands, or other parts of the body, itching, fluid-filled blisters, yellow or honey-colored crusts",
+      "disease": "impetigo",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "fever, headache, chills, muscle pain, fatigue, nausea and vomiting",
+      "disease": "malaria",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "numbness or weakness on one side of the body, severe headache, difficulty speaking or understanding speech, loss of coordination or balance",
+      "disease": "paralysis (Brain Hemorrhage)",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "red patches of skin covered with silvery scales, itching, burning or soreness, thickened or ridged nails",
+      "disease": "psoriasis",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "mood swings, manic episodes, depressive episodes, increased activity or energy, racing thoughts, impaired judgment",
+      "disease": "Bipolar Disorder",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "high fever, weakness, stomach pain, headache, diarrhea, constipation",
+      "disease": "typhoid",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "swollen and twisted veins, pain and achiness in the legs, skin discoloration, itching or burning sensation",
+      "disease": "varicose veins",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "persistent sadness, loss of interest or pleasure, fatigue, sleep disturbances, feelings of worthlessness or guilt, difficulty concentrating",
+      "disease": "depression",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "difficulty paying attention, hyperactivity, impulsivity, forgetfulness, disorganization, restlessness",
+      "disease": "ADHD",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "flashbacks, nightmares, severe anxiety, depression, avoidance of reminders of traumatic event, hypervigilance",
+      "disease": "PTSD",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "excessive worry or fear, restlessness, irritability, difficulty concentrating, muscle tension, sleep disturbances",
+      "disease": "anxiety disorder",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "obsessions (persistent unwanted thoughts), compulsions (repetitive behaviors or mental acts), anxiety, depression",
+      "disease": "OCD",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "memory loss, difficulty communicating, impaired judgment, personality changes, confusion, difficulty with daily activities",
+      "disease": "dementia",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "hallucinations, delusions, disorganized speech or behavior, lack of motivation, social withdrawal, difficulty expressing emotions",
+      "disease": "schizophrenia",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "memory loss, disorientation, mood and behavior changes, difficulty speaking, swallowing, and walking",
+      "disease": "Alzheimer's",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Sickle cell anemia",
+      "symptoms": "fatigue, jaundice, severe pain, frequent infections, delayed growth, vision problems",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Cystic fibrosis",
+      "symptoms": "persistent cough, wheezing, shortness of breath, poor growth, weight loss, frequent lung infections",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Huntington's disease",
+      "symptoms": "abnormal movements, lack of coordination, cognitive decline, mood changes, difficulty swallowing",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Parkinson's disease",
+      "symptoms": "tremors, rigidity, bradykinesia, postural instability, cognitive decline, mood changes",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Amyotrophic lateral sclerosis (ALS)",
+      "symptoms": "muscle weakness, difficulty speaking and swallowing, muscle cramps and twitching, cognitive decline",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Celiac disease",
+      "symptoms": "abdominal pain, bloating, diarrhea, weight loss, fatigue, skin rash",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Chronic obstructive pulmonary disease (COPD)",
+      "symptoms": "shortness of breath, chronic cough, wheezing, chest tightness, frequent respiratory infections",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Fibromyalgia",
+      "symptoms": "widespread pain, fatigue, sleep disturbances, cognitive difficulties, headaches, irritable bowel syndrome",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Lupus",
+      "symptoms": "joint pain and swelling, fatigue, skin rash, fever, chest pain, hair loss",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "disease": "Multiple sclerosis",
+      "symptoms": "muscle weakness, numbness or tingling, tremors, difficulty with coordination, cognitive decline",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Polycystic kidney disease",
+      "symptoms": "abdominal pain, blood in urine, frequent urination, hypertension, kidney stones",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Retinoblastoma",
+      "symptoms": "white pupil, crossed eyes, vision loss, eye redness, eye swelling",
+      "gender": "all",
+      "age_range": "children"
+    },
+    {
+      "disease": "Sjogren's syndrome",
+      "symptoms": "dry eyes, dry mouth, joint pain, fatigue, skin rash, vaginal dryness",
+      "gender": "female",
+      "age_range": "all"
+    },
+    {
+      "disease": "Thyroid cancer",
+      "symptoms": "neck lump, difficulty swallowing, hoarseness, neck pain, enlarged lymph nodes",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Ulcerative colitis",
+      "symptoms": "abdominal pain, bloody diarrhea, weight loss, fatigue, fever, rectal pain and bleeding",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Von Hippel-Lindau disease",
+      "symptoms": "headaches, vision problems, abdominal pain, high blood pressure, back pain, nausea and vomiting",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "disease": "Wilson's disease",
+      "symptoms": "fatigue, tremors, muscle stiffness, difficulty speaking, personality changes, liver disease",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Xeroderma pigmentosum",
+      "symptoms": "extreme sensitivity to sunlight, skin changes, increased risk of skin cancer, vision problems",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Ebola virus disease",
+      "symptoms": "fever, headache, muscle pain, weakness, diarrhea, vomiting, stomach pain, unexplained bleeding or bruising",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Chagas disease",
+      "symptoms": "fever, fatigue, body aches, headache, rash, loss of appetite, diarrhea, vomiting, swollen glands, swollen liver or spleen",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Lyme disease",
+      "symptoms": "bull's eye rash, flu-like symptoms, joint pain, fatigue, fever, headache",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Sleeping sickness (African trypanosomiasis)",
+      "symptoms": "fever, headaches, muscle aches, joint pain, itching, swollen lymph nodes, confusion, poor coordination, sleep disturbances",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Cholera",
+      "symptoms": "diarrhea, vomiting, dehydration",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Yellow fever",
+      "symptoms": "fever, headache, muscle pain, nausea, vomiting, fatigue, jaundice",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Meningococcal disease",
+      "symptoms": "fever, headache, stiff neck, nausea, vomiting, sensitivity to light, confusion, rash",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Hepatitis C",
+      "symptoms": "fatigue, joint pain, muscle aches, fever, nausea, vomiting, loss of appetite, abdominal pain, dark urine, jaundice",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Human papillomavirus (HPV) infection",
+      "symptoms": "genital warts, abnormal Pap test results, cervical cancer",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Measles",
+      "symptoms": "fever, cough, runny nose, conjunctivitis, rash",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Rubella (German measles)",
+      "symptoms": "fever, rash, joint pain, headache, pink eye",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Polio",
+      "symptoms": "fever, sore throat, headache, vomiting, fatigue, stiffness in the neck and back, muscle weakness, paralysis",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "disease": "Schistosomiasis",
+      "symptoms": "itchy skin, rash, abdominal pain, diarrhea, blood in urine or stool, enlarged liver or spleen",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "small testicles, infertility, gynecomastia, reduced facial and body hair, tall stature",
+      "disease": "Klinefelter syndrome",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "severe headaches, seizures, memory loss, personality changes, difficulty speaking or understanding language",
+      "disease": "Alzheimer's disease",
+      "gender": "all",
+      "age_range": "elderly"
+    },
+    {
+      "symptoms": "shortness of breath, chest pain, heart palpitations, fatigue, fainting",
+      "disease": "Arrhythmogenic right ventricular dysplasia (ARVD)",
+      "gender": "all",
+      "age_range": "teenager and young adult"
+    },
+    {
+      "symptoms": "abdominal pain, bloating, diarrhea, constipation, nausea",
+      "disease": "Irritable bowel syndrome (IBS)",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "joint pain, stiffness, swelling, fatigue, fever",
+      "disease": "Rheumatoid arthritis",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "chest pain, shortness of breath, fatigue, weakness, dizziness",
+      "disease": "Aortic stenosis",
+      "gender": "all",
+      "age_range": "elderly"
+    },
+    {
+      "symptoms": "weight gain, round face, high blood pressure, muscle weakness, acne, slow healing cuts, depression, mood swings",
+      "disease": "Cushing's syndrome",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "sneezing, runny nose, itchy eyes, congestion, postnasal drip, watery eyes",
+      "disease": "allergic rhinitis",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "blocked nasal passages, difficulty breathing through the nose, runny nose, postnasal drip, decreased sense of smell, facial pressure or pain",
+      "disease": "nasal polyps",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "facial pain or pressure, nasal congestion, thick yellow or green discharge from the nose, cough, congestion in the ears",
+      "disease": "sinusitis",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "difficulty breathing through the nose, nasal congestion, postnasal drip, frequent sinus infections, nosebleeds",
+      "disease": "deviated septum",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "nasal congestion, runny nose, sneezing, itchy nose, watery eyes",
+      "disease": "nasal congestion",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "bleeding from the nose",
+      "disease": "nosebleeds",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "swelling, tenderness, bruising, nosebleeds, difficulty breathing through the nose",
+      "disease": "nasal fractures",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "thickened skin on the nose, redness, bumps, enlarged pores",
+      "disease": "rhinophyma",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "redness, tenderness, and swelling at the base of the nasal hairs",
+      "disease": "nasal vestibulitis",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "nasal obstruction, nosebleeds, facial pain or pressure, decreased sense of smell",
+      "disease": "nasal tumors",
+      "gender": "all",
+      "age_range": "adult"
+    },
+    {
+      "symptoms": "memory loss, confusion, personality changes, depression, anxiety, suicidal thoughts, impaired judgment",
+      "disease": "Chronic traumatic encephalopathy (CTE)",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "irritability, mood swings, depression, uncontrolled movements, cognitive decline, difficulty swallowing",
+      "disease": "Huntington's disease",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "tremors, stiffness, impaired balance and coordination, bradykinesia (slowness of movement), problems with speech and writing",
+      "disease": "Parkinson's disease",
+      "gender": "both",
+      "age_range": "elderly"
+    },
+    {
+      "symptoms": "muscle weakness, difficulty speaking and swallowing, muscle cramps and twitching, respiratory failure",
+      "disease": "Amyotrophic lateral sclerosis (ALS)",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "headaches, balance problems, vision loss, hearing loss, vomiting, seizures",
+      "disease": "Von Hippel-Lindau disease",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "fatigue, abdominal pain, jaundice, unexplained weight loss, tremors, stiffness",
+      "disease": "Wilson's disease",
+      "gender": "both",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "stunted growth, joint stiffness, hearing and vision loss, heart problems, mental retardation",
+      "disease": "Mucopolysaccharidoses (MPS)",
+      "gender": "both",
+      "age_range": "children"
+    },
+    {
+      "symptoms": "stunted growth, joint stiffness, hearing and vision loss, heart problems, mental retardation",
+      "disease": "Mucopolysaccharidosis",
+      "gender": "both",
+      "age_range": "children"
+    },
+    {
+      "symptoms": "headaches, seizures, changes in vision, weakness or numbness in limbs, difficulty speaking",
+      "disease": "Meningioma",
+      "gender": "both",
+      "age_range": "adults"
+    },
+    {
+      "symptoms": "impulsivity, mood swings, unstable sense of self, fear of abandonment, intense and unstable relationships, self-harm or suicidal behavior",
+      "disease": "borderline personality disorder (BPD)",
+      "gender": "all",
+      "age_range": "18+"
+    },
+    {
+      "symptoms": "difficulty with social interaction and communication, repetitive behaviors, narrow interests, sensory issues",
+      "disease": "autism spectrum disorder (ASD)",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "distorted body image, severe calorie restriction, binge eating followed by purging, excessive exercise",
+      "disease": "eating disorders",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "compulsive drug or alcohol use, inability to control use, withdrawal symptoms",
+      "disease": "substance use disorders",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "difficulty falling asleep or staying asleep",
+      "disease": "insomnia",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "persistent patterns of behavior, thought, and emotion that deviate from cultural norms, cause distress, and impair functioning",
+      "disease": "personality disorders",
+      "gender": "all",
+      "age_range": "18+"
+    },
+    {
+      "symptoms": "disruption of normal integrative functions of consciousness, memory, identity, or perception of the environment",
+      "disease": "dissociative disorders",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "problems with sexual response or desire, pain during sex",
+      "disease": "sexual dysfunctions",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "difficulty achieving or maintaining an erection",
+      "disease": "erectile dysfunction",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "ejaculation occurring too quickly during sexual activity",
+      "disease": "premature ejaculation",
+      "gender": "male",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "low or absent sexual desire, distress due to lack of desire",
+      "disease": "hypo-active sexual desire disorder",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "shortness of breath, wheezing, recurrent lung infections, liver disease",
+      "disease": "Alpha-1-Antitrypsin Deficiency",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "skin lesions, fever, pain in the hands and feet, kidney and heart problems",
+      "disease": "Fabry Disease",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "enlarged liver and spleen, bone pain, fatigue, anemia, easy bruising, and bleeding",
+      "disease": "Gaucher Disease",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "headache, seizures, confusion, vision problems, muscle weakness",
+      "disease": "cysticercosis",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "jaundice, enlarged liver and spleen, loss of motor skills, seizures, dementia",
+      "disease": "Niemann-Pick Disease Type C",
+      "gender": "all",
+      "age_range": "all"
+    },
+    {
+      "symptoms": "poor feeding, vomiting, lethargy, weak muscle tone, developmental delays",
+      "disease": "Propionic Acidemia",
+      "gender": "all",
+      "age_range": "all"
+    }
+  ]
+}
